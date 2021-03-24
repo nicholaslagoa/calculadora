@@ -1,2 +1,2 @@
-# Calculadora em Console
-Por enquanto, apenas uma calculadora básica em console criada utilizando a CLI do .NET Core, outras funções do framework ainda a serem implementadas de fato.
+# Console calculator
+For now, just a basic console calculator created using the .NET Core CLI, other framework functions are yet to be implemented. 
